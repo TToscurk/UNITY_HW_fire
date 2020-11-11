@@ -468,4 +468,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/User/Documents/GitHub/UNITY_HW_fire/web2
+  playerPath: C:/Users/User/Documents/GitHub/UNITY_HW_fire/web1
